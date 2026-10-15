@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7a1712f7-854d-4ec4-999c-f537ab77c7ce</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Progalused_26_midagi_midagi.py</StartupFile>
+    <StartupFile>Praktiline_töö_vmdea.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Praktiline_töö_vmdea.py" />
     <Compile Include="Progalused_26_midagi_midagi.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
